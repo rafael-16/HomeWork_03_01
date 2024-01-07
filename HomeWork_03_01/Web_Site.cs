@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HomeWork_03_01
 {
-    class Web_Site
+    internal class Web_Site
     {
         private string name = string.Empty;
         private string url = string.Empty;
